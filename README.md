@@ -12,4 +12,4 @@ A simple and responsive calculator built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 🌐 Live Demo
-[Click here to play](https://your-username.github.io/rock-paper-scissors/)
+[Click here to play](https://github.com/payalgupta2005/calculator.git)
